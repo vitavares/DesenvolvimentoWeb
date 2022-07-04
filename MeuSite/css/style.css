@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(165, 165, 165);
+    margin: 0px;
+    padding: 0px;
+}
+
+.post {
+    background-color: rgb(255, 255, 255);
+    margin: 15px;
+    padding: 10px;
+    border-radius: 10px;
+    border-color: rgb(0, 0, 0);
+}
+#title, .h2, .h3, .a1 {
+    color: black;
+}
