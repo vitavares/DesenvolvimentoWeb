@@ -1,16 +1,22 @@
-body {
-    background-color: rgb(165, 165, 165);
-    margin: 0px;
-    padding: 0px;
+html, body {
+	width: 100%;
+	height: 100%;
+	margin: 0;
+    background-color: aliceblue;
+}
+.title {
+    color: #000;
+    text-align: center;
 }
 
-.post {
-    background-color: rgb(255, 255, 255);
-    margin: 15px;
-    padding: 10px;
-    border-radius: 10px;
-    border-color: rgb(0, 0, 0);
+.projetos {
+    color: #000;
 }
-#title, .h2, .h3, .a1 {
-    color: black;
+
+.post1 {
+    margin: 10px;
+    padding: 10px;
+    margin-right: 850px;
+    border-radius: 5px;
+    background-color: rgb(82, 100, 116);
 }
